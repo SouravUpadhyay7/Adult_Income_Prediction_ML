@@ -1,1 +1,1 @@
-# SouravUpadhyay7-Student-Performance-ML-Project
+# Student-Performance-ML-Project
