@@ -2,9 +2,16 @@
 
 A comprehensive machine learning pipeline that predicts whether an individual's income exceeds $50K/year based on census data. Built with Python and deployed as a web application using Flask.
 
-## 📊 Project Overview
+# video
 
-This project implements an end-to-end machine learning solution that includes data ingestion, transformation, model training, and deployment. The system processes demographic and employment data to make accurate income predictions.
+
+
+
+https://github.com/user-attachments/assets/63a22ab3-b911-499d-aac9-fecf03c1d3c7
+
+
+
+
 
 ## 🏗️ Project Structure
 
